@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row align-items-center py-5 min-vh-75">
+    <div class="col-lg-6 mb-5 mb-lg-0 pe-lg-5">
+        <span class="badge border border-info text-info mb-4 px-3 py-2 rounded-pill fs-6 bg-transparent">Clinical Intelligence</span>
+        <h1 class="display-4 fw-bolder mb-4" style="line-height: 1.2;">Advanced Heart Disease Risk Prediction</h1>
+        <p class="lead text-muted mb-5 fs-5">Utilize state-of-the-art machine learning algorithms to assess cardiovascular risk factors. Designed for accessibility, speed, and uncompromising accuracy.</p>
+        <div class="d-flex gap-4">
+            <a href="{{ url_for('signup') }}" class="btn btn-primary btn-lg px-5 py-3 rounded-pill shadow-lg">Get Started Now</a>
+        </div>
+    </div>
+    <div class="col-lg-6 text-center">
+        <img src="{{ url_for('static', filename='heart.png') }}" alt="Heart Diagnosis Visualization" class="img-fluid rounded-4 shadow-lg w-100" style="min-height: 400px; background-color: var(--card-bg); border: 1px solid var(--border-color); object-fit: cover;">
+    </div>
+</div>
+{% endblock %}
