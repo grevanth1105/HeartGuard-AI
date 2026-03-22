@@ -1,8 +1,8 @@
-# 🫀 HeartGuard AI - Clinical Risk Assessment
+# HeartGuard AI - Clinical Risk Assessment
 
 HeartGuard AI is a predictive healthcare application designed to assess cardiovascular disease risk using advanced Machine Learning. Built with a Flask backend and a modern, responsive UI, this tool allows both patients and healthcare providers to input clinical vitals and diagnostic metrics to generate real-time risk profiles and downloadable PDF reports.
 
-## ✨ Key Features
+## Key Features
 * **Predictive Diagnostics:** Utilizes a K-Nearest Neighbors (KNN) model trained on clinical data to predict heart disease probability.
 * **Secure Authentication:** Built-in user registration and login system with hashed passwords using Werkzeug and SQLite.
 * **Clinical Dashboard:** A sleek, dark-themed, and responsive interface built with Bootstrap 5.
