@@ -33,15 +33,12 @@ HeartGuard AI is a predictive healthcare application designed to assess cardiova
 
 ## 📸 Screenshots
 
-*(Replace the placeholder links below with actual paths to your images once uploaded to your repository)*
+<img width="1919" height="911" alt="Screenshot 2026-03-22 213432" src="https://github.com/user-attachments/assets/0a088618-b597-4cfd-918c-9b3a143d106e" />
+<img width="1919" height="906" alt="Screenshot 2026-03-22 213546" src="https://github.com/user-attachments/assets/6cd2c090-2f22-41ab-8df9-bdb89cb5c0b3" />
+<img width="1918" height="910" alt="Screenshot 2026-03-22 213619" src="https://github.com/user-attachments/assets/e4cbdcf6-e9ed-4255-9c71-2bd2241c85fa" />
+<img width="1919" height="915" alt="Screenshot 2026-03-22 213645" src="https://github.com/user-attachments/assets/7504e87d-bd96-4731-a8c4-2f15d3f09986" />
 
-| Home Screen | Clinical Dashboard |
-| :---: | :---: |
-| `<img src="link_to_home_screenshot.png" width="400"/>` | `<img src="link_to_dashboard_screenshot.png" width="400"/>` |
 
-| Risk Assessment Result | Downloadable Report |
-| :---: | :---: |
-| `<img src="link_to_result_screenshot.png" width="400"/>` | `<img src="link_to_pdf_screenshot.png" width="400"/>` |
 
 ---
 
